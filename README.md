@@ -23,7 +23,7 @@ A modern, privacy-focused web application designed to transform your exported Wh
 ## 🚀 Quick Start
 
 1.  **Export Chat:** Open a WhatsApp chat on your phone. Tap the menu (three dots) > **More** > **Export Chat** > **Without Media**.
-2.  **Upload:** Visit the [Live Demo](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/) and drag your `.txt` file into the upload zone.
+2.  **Upload:** Visit the [Live Demo](https://rdtanmoy09.github.io/WhatsApp-Chat-Analyzer/) and drag your `.txt` file into the upload zone.
 3.  **Explore:** View your most active users, peak hours, and message trends!
 
 ## 🛡️ Privacy Note
