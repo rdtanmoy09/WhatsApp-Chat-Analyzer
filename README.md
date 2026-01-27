@@ -30,5 +30,18 @@ A modern, privacy-focused web application designed to transform your exported Wh
 
 This tool operates entirely on the client side. Your chat files are read into the browser's memory for analysis and are never transmitted to any external server or database.
 
+## 📂 Project Structure
+
+WhatsApp-Chat-Analyzer/
+├── index.html          # Main entry point & Dashboard UI
+├── LICENSE             # MIT License (Legal permissions)
+├── README.md           # Project documentation & Guide
+├── style.css           # Global CSS resets
+├── js/                 # JavaScript Modules
+    ├── app.js          # DOM Orchestration & Event handling
+    ├── charts.js       # Chart.js visualization logic
+    ├── parser.js       # WhatsApp text parsing engine
+    └── storage.js      # LocalStorage data persistence
+
 ---
 Created by Friday.
