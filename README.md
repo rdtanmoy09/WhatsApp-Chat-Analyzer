@@ -32,6 +32,7 @@ This tool operates entirely on the client side. Your chat files are read into th
 
 ## 📂 Project Structure
 
+```
 WhatsApp-Chat-Analyzer/
 ├── index.html          # Main entry point & Dashboard UI
 ├── LICENSE             # MIT License (Legal permissions)
@@ -42,6 +43,6 @@ WhatsApp-Chat-Analyzer/
     ├── charts.js       # Chart.js visualization logic
     ├── parser.js       # WhatsApp text parsing engine
     └── storage.js      # LocalStorage data persistence
-
+```
 ---
 Created by Friday.
