@@ -26,7 +26,7 @@ export function initDashboard() {
   const raw = sessionStorage.getItem("chatData");
   if (!raw) {
     // Nothing to show — send user back to upload
-    window.location.href = "index.html";
+    window.location.href = "../index.html";
     return;
   }
 
